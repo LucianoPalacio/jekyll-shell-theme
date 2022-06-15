@@ -1,0 +1,17 @@
+title: "jekyll-shell-theme"
+tagline: "A jekyll theme that looks like a shell/terminal"
+description: "This is a preview of jekyll-shell-theme."
+github_username: #You can put your github username
+twitter_username: #You can put your twitter username
+baseurl: # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+url: "https://tareqdandachi.github.io"
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - read-me.md
+  - preview.md
+
+# set the size of the text to 'large' or 'small', default is small
+font-size: small
